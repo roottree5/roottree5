@@ -43,7 +43,7 @@ Mobile application development in Javanese and Kotlin languages ```(01/2024 ~ in
 ## In a nutshell
 I am a student studying to become a mobile application developer.
 
-## ADDITIONAL SKILLS
+## ADDITIONAL SKILLS ✨ Tech Stack ✨
 <span>
 <img src="https://img.shields.io/badge/Kotlin-hexcode색상?style=plastic&logo=Kotlin&logoColor=#7F52FF"/>
 </span>
