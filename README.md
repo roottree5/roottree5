@@ -31,7 +31,7 @@
   
 <br><br>
 
-</details>
+
 
 ## OBJECTIVE
 Reseach on Application
@@ -44,6 +44,8 @@ Mobile application development in Javanese and Kotlin languages ```(01/2024 ~ in
 
 ## In a nutshell
 I am a student studying to become a mobile application developer.
+
+</details>
 <!-- Tools -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
