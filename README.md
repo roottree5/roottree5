@@ -67,7 +67,7 @@ I am a student studying to become a mobile application developer.
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 
 <!-- Tech stack -->
-## ✨ Tech Stack ✨
+## Tech Stack
 <span>
 <img src="https://img.shields.io/badge/Kotlin-hexcode색상?style=plastic&logo=Kotlin&logoColor=#7F52FF"/>
 </span>
@@ -78,7 +78,7 @@ I am a student studying to become a mobile application developer.
 <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
 
-
+## Hello 
   
 <!-- Hits -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230017FF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
