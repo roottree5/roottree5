@@ -75,6 +75,7 @@ I am a student studying to become a mobile application developer.
 <h3 align="center">🛠 Other Tools 🛠</h3>
  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+ <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office Badge">
 
  
 <!-- Tech stack -->
@@ -93,10 +94,14 @@ I am a student studying to become a mobile application developer.
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </span>
 <span>
-
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
 </span>
-
-
+<span>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+</span>
+<span>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge">
+</span>
 
 ## Hello 
   
