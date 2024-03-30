@@ -26,11 +26,7 @@
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
-<span>
-  <a href="https://www.facebook.com/jyyonsei">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white"/>
-  </a>
-</span>   
+  
 <br><br>
 
 </details>
