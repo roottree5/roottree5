@@ -55,7 +55,7 @@ I am a student studying to become a mobile application developer.
 <img src="https://img.shields.io/badge/Kotlin-hexcode색상?style=plastic&logo=Kotlin&logoColor=#7F52FF"/>
 </span>
 <span>
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </span>
 <span>
 <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
