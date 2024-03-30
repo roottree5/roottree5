@@ -69,7 +69,7 @@ I am a student studying to become a mobile application developer.
 <!-- Tech stack -->
 ## Tech Stack
 <span>
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=61DAFB" />
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 </span>
 <span>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
