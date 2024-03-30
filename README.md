@@ -33,6 +33,8 @@
 </span>   
 <br><br>
 
+</details>
+
 ## OBJECTIVE
 Reseach on Application
 
