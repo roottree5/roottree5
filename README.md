@@ -36,7 +36,7 @@ Reseach on Application
 
 ## Study EXPERIENCE ( I'm student )
 Computer Science Major,  ```(03/2022 ~ )```  
-Creating games in the java language Incheon/South Kore ```(09/2023, 12/2023)```   
+Creating games in the java language Incheon/South Korea ```(09/2023, 12/2023)```   
 App Development with Flutter , Clone Coding ```(12/2023 ~ )```  
 Mobile application development in Javanese and Kotlin languages ```(01/2024 ~ ing)```   
 
