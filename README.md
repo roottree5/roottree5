@@ -17,7 +17,7 @@
   </a>
 </span>
 <span>
-  <a href="mailto:jun_yonsei@yonsei.ac.kr">
+  <a href="mailto:man5068828@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
