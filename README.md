@@ -43,6 +43,13 @@ Mobile application development in Javanese and Kotlin languages ```(01/2024 ~ in
 ## In a nutshell
 I am a student studying to become a mobile application developer.
 
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
 ## ✨ Tech Stack ✨
 <span>
 <img src="https://img.shields.io/badge/Kotlin-hexcode색상?style=plastic&logo=Kotlin&logoColor=#7F52FF"/>
