@@ -15,7 +15,7 @@
 <br><br>
 <span>
   <a href="https://github.com/whyb-a">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub Blog-black?style=plastic&logo=GitHub&logoColor=white"/>
   </a>
 </span>
 <span>
