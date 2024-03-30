@@ -44,7 +44,7 @@ Mobile application development in Javanese and Kotlin languages ```(01/2024 ~ in
 I am a student studying to become a mobile application developer.
 
 ## ADDITIONAL SKILLS
-<img src="https://img.shields.io/badge/Kotlin-#7F52FF색상?style=plastic&logo=Kotlin&logoColor=#7F52FF"/>
+<img src="https://img.shields.io/badge/Kotlin-hexcode색상?style=plastic&logo=Kotlin&logoColor=#7F52FF"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
