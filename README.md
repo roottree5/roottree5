@@ -84,6 +84,9 @@ I am a student studying to become a mobile application developer.
 <span>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </span>
+
+
+
 ## Hello 
   
 <!-- Hits -->
