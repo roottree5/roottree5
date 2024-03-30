@@ -87,7 +87,7 @@ I am a student studying to become a mobile application developer.
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </span>
 <span>
-
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </span>
 
 
