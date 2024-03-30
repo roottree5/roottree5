@@ -69,7 +69,8 @@ I am a student studying to become a mobile application developer.
 <!-- Tech stack -->
 ## Tech Stack
 <span>
-<img src="https://img.shields.io/badge/Kotlin-hexcode색상?style=plastic&logo=Kotlin&logoColor=#7F52FF"/>
+![Static Badge](https://img.shields.io/badge/Kotlin)
+
 </span>
 <span>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
