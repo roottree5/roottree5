@@ -24,7 +24,7 @@
   </a>
 </span>
 <span>
-  <a href="https://www.instagram.com/dev_yb01/">
+  <a href="https://www.instagram.com/taza_az01/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
