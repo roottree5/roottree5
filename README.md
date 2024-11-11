@@ -64,7 +64,7 @@ const developer = {
 
 <!-- Animated Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YB&theme=tokyo-night&hide_border=true&line=58A6FF&color=58A6FF" width="98%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RRoot&theme=tokyo-night&hide_border=true&line=58A6FF&color=58A6FF" width="98%"/>
 </a>
 
 <!-- Tools Section with Animated Icons -->
@@ -72,7 +72,7 @@ const developer = {
 
 <!-- Main Tools -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,firebase,vscode,flutter,mysql,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,firebase,mysql,vscode,flutter&theme=dark" />
 </div>
 
 <br>
@@ -80,7 +80,7 @@ const developer = {
 <!-- Programming Languages -->
 <h2 align="center">💻 Programming Languages 💻</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,swift,python&theme=dark" />
 </div>
 
 <br>
