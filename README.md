@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header banner with animated gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=YB's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=RRoot's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
 
 <!-- Animated Snake -->
 <picture>
@@ -21,9 +21,6 @@
 
 <!-- Social Links with Hover Effect -->
 <div class="social-links">
-  <a href="https://github.com/whyb-a">
-    <img src="https://img.shields.io/badge/GitHub_Blog-black?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
   <a href="mailto:man5068828@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
