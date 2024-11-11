@@ -96,14 +96,3 @@ const developer = {
 </div>
 
 <!-- Add some custom CSS for animations -->
-<style>
-.social-links a {
-  transition: transform 0.3s ease;
-  display: inline-block;
-  margin: 0 5px;
-}
-
-.social-links a:hover {
-  transform: translateY(-3px);
-}
-</style>
