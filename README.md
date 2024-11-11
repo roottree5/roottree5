@@ -1,106 +1,112 @@
 <div align="center">
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<!-- Header banner with animated gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=YB's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
 
+<!-- Animated Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
+<!-- Title Typing Effect with multiple lines -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Welcome+to+my+Github!+%F0%9F%91%8B;Research+on+Application+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
-<!-- Title Typing Effect -->
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome to my Github%2C+ I'm+rroot;Research+on+Application" alt="Typing SVG" /></a>
-
-<!-- My CV/resume -->
+<!-- Animated About Me Section -->
 <details>
-<summary>About Me</summary>
-<br><br>
-<span>
+<summary>✨ About Me ✨</summary>
+<br>
+
+<!-- Social Links with Hover Effect -->
+<div class="social-links">
   <a href="https://github.com/whyb-a">
-    <img src="https://img.shields.io/badge/GitHub Blog-black?style=plastic&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Blog-black?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
-</span>
-<span>
   <a href="mailto:man5068828@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=plastic&logo=Gmail&logoColor=yello"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-</span>
-<span>
-  <a href="https://www.instagram.com/taza_az01/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/roottree5/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-</span>
-  
-<br><br>
+</div>
 
+<br>
 
+## 🎯 OBJECTIVE
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Research+on+Application" />
 
-## OBJECTIVE
-Reseach on Application
+## 📚 STUDY EXPERIENCE
+<div align="left">
+<p>👨‍💻 Computer Science Major 『2022.03 ~』</p>
+<p>🎮 Creating games in Java 『2023.09 ~ 2023.12』</p>
+<p>📱 Flutter App Development 『2023.12 ~』</p>
+<p>📱 Mobile App Development (Java/Kotlin) 『2024.01 ~ Present』</p>
+</div>
 
-## Study EXPERIENCE ( I'm student )
-Computer Science Major,  ```(03/2022 ~ )```  
-Creating games in the java language Incheon/South Korea ```(09/2023, 12/2023)```   
-App Development with Flutter , Clone Coding ```(12/2023 ~ )```  
-Mobile application development in Javanese and Kotlin languages ```(01/2024 ~ ing)```   
-
-## In a nutshell
-I am a student studying to become a mobile application developer.
-
+## 💫 In a nutshell
+```typescript
+const developer = {
+  name: "rroot",
+  role: "Student Developer",
+  focus: "Mobile Application Development and ai",
+  passion: "Creating innovative mobile solutions",
+  learning: ["Flutter", "Kotlin","Swift","Python"]
+}
+```
 </details>
 
-<!-- Status -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YB&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=YB&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YB&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-
-<!-- Tools -->
-<h3 align="center">🛠 Tools 🛠</h3>
+<!-- Animated Stats Section -->
 <div align="center">
-<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YB&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+</div>
 
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YB&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-<!-- Other Tools -->
-<h3 align="center">🛠 Other Tools 🛠</h3>
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office Badge">
+<!-- Animated Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YB&theme=tokyo-night&hide_border=true&line=58A6FF&color=58A6FF" width="98%"/>
+</a>
 
- 
-<!-- Tech stack -->
-## Tech Stack
-<span>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</span>
-<span>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</span>
-<span>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"
-</span>
-<span>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</span>
+<!-- Tools Section with Animated Icons -->
+<h2 align="center">🛠 Tech Stack & Tools 🛠</h2>
 
+<!-- Main Tools -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,firebase,vscode,flutter,mysql,spring&theme=dark" />
+</div>
 
+<br>
 
+<!-- Programming Languages -->
+<h2 align="center">💻 Programming Languages 💻</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,python&theme=dark" />
+</div>
 
-## Hello 
-  
-<!-- Hits -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230017FF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<br>
+
+<!-- Profile Views Counter -->
+<h2 align="center">👀 Profile Views 👀</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rroot&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"/>
+</p>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=40&fontAlign=62&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Add some custom CSS for animations -->
+<style>
+.social-links a {
+  transition: transform 0.3s ease;
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.social-links a:hover {
+  transform: translateY(-3px);
+}
+</style>
