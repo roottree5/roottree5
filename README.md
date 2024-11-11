@@ -56,11 +56,11 @@ const developer = {
 
 <!-- Animated Stats Section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YB&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRoot&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RRoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YB&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRoot&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 <!-- Animated Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
