@@ -72,7 +72,7 @@ const developer = {
 
 <!-- Main Tools -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,firebase,mysql,vscode,flutter,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,firebase,mysql,vscode,flutter,react,androidstudio&theme=dark" />
 </div>
 
 <br>
