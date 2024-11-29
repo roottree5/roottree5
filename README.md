@@ -45,11 +45,11 @@
 ## 💫 In a nutshell
 ```typescript
 const developer = {
-  name: "rroot",
-  role: "Student Developer",
-  focus: "Mobile Application Development and ai",
+  name: "two_root",
+  role: "Developer",
+  focus: "app and data",
   passion: "Creating innovative mobile solutions",
-  learning: ["Flutter", "Kotlin","Swift","Python"]
+  learning: ["Python","Flutter", "Kotlin","Swift"]
 }
 ```
 </details>
