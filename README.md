@@ -11,7 +11,7 @@
 
 <!-- Title Typing Effect with multiple lines -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Welcome+to+my+Github!+%F0%9F%91%8B;Research+on+Application+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Welcome+to+my+Github!+%F0%9F%91%8B;+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <!-- Animated About Me Section -->
