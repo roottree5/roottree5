@@ -56,15 +56,15 @@ const developer = {
 
 <!-- Animated Stats Section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRoot&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RRoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Two_Root&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Two_Root&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRoot&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Two_Root&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 <!-- Animated Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RRoot&theme=tokyo-night&hide_border=true&line=58A6FF&color=58A6FF" width="98%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Two_Root&theme=tokyo-night&hide_border=true&line=58A6FF&color=58A6FF" width="98%"/>
 </a>
 
 <!-- Tools Section with Animated Icons -->
@@ -88,7 +88,7 @@ const developer = {
 <!-- Profile Views Counter -->
 <h2 align="center">👀 Profile Views 👀</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rroot&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Two_Root&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"/>
 </p>
 
 <!-- Animated Footer -->
