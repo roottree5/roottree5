@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header banner with animated gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=RRoot%27s%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Two_Root%27s%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
 
 <!-- Animated Snake -->
 <picture>
