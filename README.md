@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header banner with animated gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Two_Root%27s%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=TwoRoot's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
 
 <!-- Animated Snake -->
 <picture>
@@ -45,7 +45,7 @@
 ## 💫 In a nutshell
 ```typescript
 const developer = {
-  name: "two_root",
+  name: "TwoRoot",
   role: "Developer",
   focus: "app and data",
   passion: "Creating innovative mobile solutions",
@@ -56,15 +56,15 @@ const developer = {
 
 <!-- Animated Stats Section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Two_Root&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Two_Root&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TwoRoot&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TwoRoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Two_Root&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwoRoot&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 <!-- Animated Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Two_Root&theme=tokyo-night&hide_border=true&line=58A6FF&color=58A6FF" width="98%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TwoRoot&theme=tokyo-night&hide_border=true&line=58A6FF&color=58A6FF" width="98%"/>
 </a>
 
 <!-- Tools Section with Animated Icons -->
@@ -88,11 +88,9 @@ const developer = {
 <!-- Profile Views Counter -->
 <h2 align="center">👀 Profile Views 👀</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Two_Root&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"/>
+  <img src="https://komarev.com/ghpvc/?username=TwoRoot&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter"/>
 </p>
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=40&fontAlign=62&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
-
-<!-- Add some custom CSS for animations -->
