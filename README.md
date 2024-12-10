@@ -72,7 +72,7 @@ const developer = {
 
 <!-- Main Tools -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,firebase,mysql,vscode,flutter,react,androidstudio,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,vscode,mongodb,react,androidstudio,nodejs&theme=dark" />
 </div>
 
 <br>
@@ -80,7 +80,7 @@ const developer = {
 <!-- Programming Languages -->
 <h2 align="center">💻 Programming Languages 💻</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,swift,python,html,css,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,dart,html,css,javascript&theme=dark" />
 </div>
 
 <br>
